@@ -155,6 +155,5 @@ public class Main {
         for (int secondMultiplier = 1; secondMultiplier<=10; secondMultiplier = secondMultiplier +1){
             System.out.println(firstMultiplier + "*" + secondMultiplier + " = " + (firstMultiplier * secondMultiplier));
         }
-
     }
 }
